@@ -1,6 +1,9 @@
-# Traditional Computer Vision Techniques - Museum Painting Retrieval Project
+# Traditional Computer Vision Techniques - Museum Painting Retrieval 
+Project of the Module 1: 'Introduction to Human and Computer Vision' of the Master's degree in Computer Vision at Universitat Autònoma de Barcelona (UAB)
 
 ## Summary
+About
+Paper
 
 ## Contributors
 - Julia Ariadna Blanco Arnaus
