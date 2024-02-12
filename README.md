@@ -5,6 +5,13 @@ Project of the Module 1: 'Introduction to Human and Computer Vision' of the Mast
 About
 Paper
 
+## Weekly Slides:
+- Week 1
+- Week 2
+- Week 3
+- Week 4
+- Week 5
+
 ## Contributors
 - Julia Ariadna Blanco Arnaus
 - Hicham El Muhandiz
