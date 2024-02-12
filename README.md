@@ -6,11 +6,12 @@ About
 Paper
 
 ## Weekly Slides:
-- Week 1
-- Week 2
-- Week 3
-- Week 4
-- Week 5
+- [Week 1](https://docs.google.com/presentation/d/1fK93Q6sRxi8e0b7KvLUawMESzf9BOoVj9ZeOsXoG6y4/edit?usp=sharing)
+- [Week 2](https://docs.google.com/presentation/d/11cB84VPgsNNoeIfvGW83xz_N_j840_NGXk48IUHh434/edit?usp=sharing)
+- [Week 3](https://docs.google.com/presentation/d/1Wlf__5Gy2G0i28nD2zKjPGsY-QObLRlBKLlWUXic8D8/edit?usp=sharing)
+- [Week 4](https://docs.google.com/presentation/d/1ui6RbXL2kv7skn7dz1DNrybpF5IVpJ9XChNonC3I5GI/edit?usp=sharing)
+- [Week 5](https://docs.google.com/presentation/d/1alWtXwuB8QduvPyd-_w-MnWFs0u2NOHykGXclJiL3Tk/edit?usp=sharing)
+
 
 ## Contributors
 - Julia Ariadna Blanco Arnaus
