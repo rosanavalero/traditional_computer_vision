@@ -1,5 +1,13 @@
 # Traditional Computer Vision Techniques - Museum Painting Retrieval Project
 
+## Summary
+
+## Contributors
+- Julia Ariadna Blanco Arnaus
+- Hicham El Muhandiz
+- Marcos Muñoz González
+- Rosana Valero Martínez
+
 ## Activation of the environment
 In order to be able to run the scripts below, first it must be activated an environment containing the modules described in the requirements.txt file. To activate the environment, the following command has to be executed:
 
