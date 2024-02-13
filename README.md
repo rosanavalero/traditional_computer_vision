@@ -4,7 +4,7 @@ Project of the Module 1: 'Introduction to Human and Computer Vision' of the Mast
 ## Summary
 This project implements a query-by-example retrieval system for museum images, utilizing conventional computer vision methods. The system retrieves images based on color, texture, text information, keypoints, and local descriptors. Techniques such as denoising, background removal, and orientation correction are applied to enhance image quality. Morphological filters are employed to detect and eliminate overlaid text. The system’s performance is primarily evaluated using the MAP@k metric.
 
-See [Report]()
+See [Report](https://drive.google.com/file/d/1KehBE7seCjttaaJJMekD8qG2T98iA7DJ/view?usp=drive_link)
 
 ## Weekly Slides:
 - [Week 1](https://docs.google.com/presentation/d/1fK93Q6sRxi8e0b7KvLUawMESzf9BOoVj9ZeOsXoG6y4/edit?usp=sharing)
