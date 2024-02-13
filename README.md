@@ -2,7 +2,7 @@
 Project of the Module 1: 'Introduction to Human and Computer Vision' of the Master's degree in Computer Vision at Universitat Autònoma de Barcelona (UAB)
 
 ## Summary
-This project implements a query-by-example retrieval system for museum images, utilizing conventional computer vision methods. The system retrieves images based on color, texture, text information, keypoints, and local descriptors. Techniques such as denoising, background removal, and orientation correction are applied to enhance image quality. Morphological filters are employed to detect and eliminate overlaid text. The system’s performance is primarily evaluated using the MAP@k metric.
+This repository hosts the code and documentation for a query-by-example retrieval system designed specifically for museum images. The system leverages conventional computer vision methods to retrieve images based on various criteria including color, texture, text information, keypoints, and local descriptors. To improve image quality, techniques such as denoising, background removal, and orientation correction are applied. Morphological filters are utilized to detect and eliminate overlaid text, ensuring accurate retrieval results. The performance of the system is primarily evaluated using the Mean Average Precision at k (MAP@k) metric, providing insight into its effectiveness in retrieving relevant images from museum collections.
 
 See [Report](https://drive.google.com/file/d/1KehBE7seCjttaaJJMekD8qG2T98iA7DJ/view?usp=drive_link)
 
@@ -12,7 +12,6 @@ See [Report](https://drive.google.com/file/d/1KehBE7seCjttaaJJMekD8qG2T98iA7DJ/v
 - [Week 3](https://docs.google.com/presentation/d/1Wlf__5Gy2G0i28nD2zKjPGsY-QObLRlBKLlWUXic8D8/edit?usp=sharing)
 - [Week 4](https://docs.google.com/presentation/d/1ui6RbXL2kv7skn7dz1DNrybpF5IVpJ9XChNonC3I5GI/edit?usp=sharing)
 - [Week 5](https://docs.google.com/presentation/d/1alWtXwuB8QduvPyd-_w-MnWFs0u2NOHykGXclJiL3Tk/edit?usp=sharing)
-
 
 ## Contributors
 - Julia Ariadna Blanco Arnaus
