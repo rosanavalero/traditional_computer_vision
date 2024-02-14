@@ -14,10 +14,10 @@ See [Report](https://drive.google.com/file/d/1KehBE7seCjttaaJJMekD8qG2T98iA7DJ/v
 - [Week 5](https://docs.google.com/presentation/d/1alWtXwuB8QduvPyd-_w-MnWFs0u2NOHykGXclJiL3Tk/edit?usp=sharing)
 
 ## Contributors
-- Julia Ariadna Blanco Arnaus
-- Hicham El Muhandiz
-- Marcos Muñoz González
-- Rosana Valero Martínez
+- Hicham El Muhandiz (hicham.elmuhandiz@autonoma.cat)
+- Júlia Ariadna Blanco Arnaus (j.blanco.arnaus@gmail.com)
+- Marcos Muñoz González (marcosmunozgonzalez95@gmail.com)
+- Rosana Valero Martínez (rosanavalero5@gmail.com)
 
 ## Activation of the environment
 In order to be able to run the scripts below, first it must be activated an environment containing the modules described in the requirements.txt file. To activate the environment, the following command has to be executed:
